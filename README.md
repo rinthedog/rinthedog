@@ -1,3 +1,3 @@
 # 👋 Hi there!
 
-<img alt="Language Stats" src="http://rinx.dev/api/github/top-langs" />
+<img alt="Language Stats" height="180" src="https://github-readme-stats.rinx.dev/api/top-langs/?username=rinthedog&theme=transparent&hide_border=true&layout=compact&langs_count=10" />
